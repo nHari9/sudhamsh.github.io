@@ -24,6 +24,7 @@
     font-size: 60px;
     letter-spacing: 5px;
     color: white;
+    
     transition: transform .4s;
 }
 
