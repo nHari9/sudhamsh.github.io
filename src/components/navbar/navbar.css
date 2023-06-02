@@ -1,27 +1,29 @@
 .header{
-    margin: auto;
     display: flex;
-    gap: 50%;
-    background-color: #2f2e2e;
+    justify-content: space-evenly;
+    background-color:  #25303f;
+    height: 80px;
 }
-.nav2 p{
+.header p{
     color: aliceblue;
-    margin-right: 20px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-weight: 700;
     font-size: 20px;
     transition: transform .4s;
+    margin: 45px;
 }
-.nav2 p:hover{
+.header p:hover{
     cursor: pointer;
     transform: scale(1.2);
 }
-.nav1{
-    margin: auto;
-    display: flex;
+.header h1:hover{
+    cursor: pointer;
+    transform: scale(1.2);
 }
-.nav2{
-    display: flex;
-    justify-content: space-evenly;
+.header h1{
+    margin: -2px;
+    font-size: 60px;
+    letter-spacing: 5px;
+    color: white;
+    transition: transform .4s;
 }
 

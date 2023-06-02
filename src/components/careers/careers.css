@@ -1,0 +1,15 @@
+.careers{
+    background-color: #e4e5e7;
+    padding: 20px;
+}
+
+.CarCard{
+    height: 500px;
+    width: 60%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+    background-color: #eeeefc;
+}

@@ -1,14 +1,14 @@
 import React from "react";
 import "./footer.css";
 import { SocialIcon } from 'react-social-icons';
-import Logo from "../../images/KSJ_Logo.png"
+// import Logo from "../../images/KSJ_Logo.png"
 
 
 function Footer() {
   return (
     <div className="footer">
         <div className="footerLogo">
-          <img src={Logo} alt="" />
+          {/* <img src={Logo} alt="" /> */}
           <h1>KSJ where imagination meets innovation</h1>
         </div>
         <div className="footerContact">

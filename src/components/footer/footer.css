@@ -1,11 +1,9 @@
 .footer{
     padding: 10px;
-    border: 1px solid #25303f;
     height: 200px;
     background-color: #25303f;
     color: white;
     display: flex;
-    
 }
 
 .footerLogo{

@@ -1,0 +1,28 @@
+.intro{
+    text-align: center;
+    height: 600px;
+    position: relative;
+}
+.introImg{
+    height: 600px;
+    overflow: hidden;
+}
+.introImg img{
+    object-fit: fill;
+    opacity: 0.8;
+}
+
+.matter{
+    position: absolute;
+    top: 40%;
+    left: 8%;
+    background-color: #eeeefc;
+}
+.matter h1{
+    font-size: 60px;
+}
+.matter p{
+    font-size: 20px;
+    padding: 10px;
+    color: #686f7a;
+}
